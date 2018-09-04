@@ -10,6 +10,7 @@
     "axios-debug": "0.0.4",
     "bluebird": "^3.5.0",
     "faker": "^4.1.0",
+    "fs": "^0.0.1-security",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "moment": "^2.18.1"
